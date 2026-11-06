@@ -30,8 +30,7 @@ public class Tugas1_02 {
 
         System.out.println("Nilai Rata-rata : " + rata2);
         System.out.println("Nilai Tertinggi : " + tertinggi);
-        System.out.println("Nilai Terendah  : " + terendah);
-        System.out.println();
+        System.out.println("Nilai Terendah  : " + terendah + "\n");
         System.out.println("Daftar Nilai & Status Kelulusan (KKM > 70):");
             
         for (int i = 0; i < nilaiMhs.length; i++) {
